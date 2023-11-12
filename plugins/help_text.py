@@ -72,7 +72,7 @@ async def help_user(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/NT_BOT_CHANNEL'),
+          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/SH0NU_TOOLS'),
           ]
         ]
        ),
@@ -97,7 +97,7 @@ async def about(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/NT_BOT_CHANNEL'),
+          InlineKeyboardButton('📍 JOIN CHANNEL 📍', url='https://t.me/SH0NU_TOOLS'),
           ]
         ]
        ),
@@ -114,11 +114,11 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('📍 CHANNEL', url='https://t.me/NT_BOT_CHANNEL'),
+          InlineKeyboardButton('📍 CHANNEL', url='https://t.me/SH0NU_TOOLS'),
       ],
       [
-          InlineKeyboardButton('👨‍💻 DEVELOPER', url='https://t.me/LISA_FAN_LK'),
-          InlineKeyboardButton('🌝 SOURCE', url='https://github.com/LISA-KOREA/UPLOADER-BOT-V2'),
+          InlineKeyboardButton('👨‍💻 DEVELOPER', url='https://t.me/SH0NU'),
+          InlineKeyboardButton('🌝 SOURCE', url='https://t.me/SH0NU'),
           ]
         ]
       ),
