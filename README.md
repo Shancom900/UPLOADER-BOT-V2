@@ -17,7 +17,7 @@
 
 ### Deploy To Heroku (No warranty)
 
-  ㅤ ㅤ   ㅤ <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLISA-KOREA%2FUPLOADER-BOT-V2"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+  ㅤ ㅤ   ㅤ <a href="https://dashboard.heroku.com/new?template=[https%3A%2F%2Fgithub.com%2FLISA-KOREA%2FUPLOADER-BOT-V2](https://github.com/Shancom900/UPLOADER-BOT-V2)"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 
 ### Deploy to Koyeb
 
