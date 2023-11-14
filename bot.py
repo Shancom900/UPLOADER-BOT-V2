@@ -21,8 +21,7 @@ def send_welcome(message):
     share_bot_button = types.InlineKeyboardButton("Share Bot❤️‍🩹", switch_inline_query=f"Check out this file renamer bot: @{bot.get_me().username}")
 
     # Add buttons to the keyboard layout (each button in a new row)
-    keyboard.add(channel_button)
-    keyboard.add(creator_button)
+keyboard.add(channel_button, creator_button)
     keyboard.add(share_bot_button)
 
     # Send the welcome message with the inline keyboard
