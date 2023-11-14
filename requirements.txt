@@ -1,3 +1,5 @@
+telebot
+os
 motor
 numpy
 Pillow
