@@ -2,7 +2,7 @@ import os
 import telebot
 from telebot import types
 
-BOT_API_TOKEN = "6809579944:AAEbyPSMRT1PnUmL3o4epNYWB7yNKLVU04w"
+BOT_API_TOKEN = "6809579944:AAGHGFuV5qk-ff_UlKVFDQsSYCKdkXOdlWw"
 CHANNEL_USERNAME = "SH0NU_TOOLS"
 CREATOR_USERNAME = "SH0NU"
 
@@ -21,7 +21,7 @@ def send_welcome(message):
     share_bot_button = types.InlineKeyboardButton("Share Bot❤️‍🩹", switch_inline_query=f"Check out this file renamer bot: @{bot.get_me().username}")
 
     # Add buttons to the keyboard layout (each button in a new row)
-keyboard.add(channel_button, creator_button)
+    keyboard.add(channel_button, creator_button)
     keyboard.add(share_bot_button)
 
     # Send the welcome message with the inline keyboard
